@@ -6,4 +6,6 @@ const hero = {
     age: 45,
 }
 
+hero.age = 50;
+
 console.log(hero);
