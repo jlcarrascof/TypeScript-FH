@@ -1,4 +1,9 @@
 
 const msg: string = 'Hello Typescript';
 
-console.log(msg);
+const hero = {
+    name: 'Ironman',
+    age: 45,
+}
+
+console.log(hero);
