@@ -21,3 +21,6 @@ c = true;
 
 console.log(a, b, c);
 */
+function sayHello(msg) {
+    console.log(msg);
+}
