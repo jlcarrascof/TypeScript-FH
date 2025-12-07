@@ -26,4 +26,7 @@ console.log(a, b, c);
     console.log(msg);
 } */
 
-    
+(() => {
+    const a: number = 10;
+    console.log(a);
+})();
