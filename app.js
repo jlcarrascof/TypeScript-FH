@@ -21,6 +21,6 @@ c = true;
 
 console.log(a, b, c);
 */
-function sayHello(msg) {
+/* function sayHello(msg: string) {
     console.log(msg);
-}
+} */
