@@ -1,4 +1,4 @@
-
+/* 
 const msg: string = 'Hello Typescript';
 
 const hero = {
@@ -8,4 +8,7 @@ const hero = {
 
 hero.age = 50;
 
-console.log(hero);
+console.log(hero); */
+
+const a = 10;
+let b = 10;
