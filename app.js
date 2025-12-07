@@ -12,3 +12,8 @@ hero.age = 50;
 console.log(hero); */
 const a = 10;
 let b = 10;
+let c;
+c = 20;
+c = '20';
+c = true;
+console.log(a, b, c);
