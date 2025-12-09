@@ -9,4 +9,6 @@
     else {
         console.log('We are safe');
     }
+    avengers = Number('55A');
+    console.log({ avengers });
 })();
