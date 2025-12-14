@@ -2,9 +2,11 @@
 
     const batman: string = 'Batman';
     const greenLantern: string = "Green Lantern";
-    const blackVulcano: string = `Black Vulcano`;
+    const blackVulcano: string = `Hero: Black Vulcano`;
 
-    console.log( batman.toUpperCase());
+    console.log(`I'm ${ batman }`);
+
+    console.log( batman.toUpperCase() );
 
 
 })()

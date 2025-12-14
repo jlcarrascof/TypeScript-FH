@@ -2,6 +2,7 @@
 (() => {
     const batman = 'Batman';
     const greenLantern = "Green Lantern";
-    const blackVulcano = `Black Vulcano`;
+    const blackVulcano = `Hero: Black Vulcano`;
+    console.log(`I'm ${batman}`);
     console.log(batman.toUpperCase());
 })();
