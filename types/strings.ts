@@ -8,4 +8,6 @@
 
     console.log( batman.toUpperCase() );
 
+    console.log( batman[10]?.toUpperCase() || `It's not present`);
+
 })()
